@@ -37,7 +37,7 @@ const Footer = ({ siteTitle }) => (
         <a
           href="https://join.slack.com/t/reactjs-dallas/shared_invite/enQtMzQ0NDY2NDQ3MzQ3LWI3NmM1ZWRhZTJiOWE4OTFiMTA0MWJlYWVhZWIxZjdkZTRiZGI0OWViZGFiMjhjYjdlMGI2NTBhMWYzNDJkODA"
           css={{
-            color: 'white',
+            color: 'blue',
             textDecoration: 'none',
           }}
         >
@@ -47,7 +47,7 @@ const Footer = ({ siteTitle }) => (
       </div>
       <div style={iconContainerStyles}>
         <a
-          href="https://twitter.com/reactjsdallas"
+          href="#"
           css={{
             color: 'white',
             textDecoration: 'none',
@@ -58,7 +58,7 @@ const Footer = ({ siteTitle }) => (
       </div>
       <div style={iconContainerStyles}>
         <a
-          href="https://www.facebook.com/reactjsdallas"
+          href="#"
           css={{
             color: 'white',
             textDecoration: 'none',
